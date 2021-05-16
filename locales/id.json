@@ -28,7 +28,7 @@
     },
     "navbar": {
         "login_text": "Login Akun",
-        "register_test": "Buat Akun"
+        "register_text": "Buat Akun"
     },
     "footer": {
         "content": {

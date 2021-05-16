@@ -29,7 +29,7 @@
     },
     "navbar": {
         "login_text": "ログイン",
-        "register_test": "新規登録"
+        "register_text": "新規登録"
     },
     "footer": {
         "content": {

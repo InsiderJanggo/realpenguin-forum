@@ -29,7 +29,7 @@
     },
     "navbar": {
         "login_text": "Login",
-        "register_test": "Register"
+        "register_text": "Register"
     },
     "footer": {
         "content": {
