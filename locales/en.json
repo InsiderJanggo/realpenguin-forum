@@ -1,7 +1,12 @@
 {
+    "locales": "en",
+    "headTitle": "RealPenguin Forum | Home",
     "title": "RealPenguin",
     "content": {
-        "description": "RealPenguin Official Forum"
+        "description": "RealPenguin Official Forum",
+        "btn": {
+            "invite": "Join Discord Server"
+        }
     },
     "dropdown": {
         "reset": "Reset",
@@ -13,5 +18,9 @@
         },
         "home": "Home",
         "about": "About"
+    },
+    "navbar": {
+        "login_text": "Login",
+        "register_test": "Register"
     }
 }

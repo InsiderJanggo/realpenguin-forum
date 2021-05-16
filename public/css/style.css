@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
       body, h1, h2, h3, h4, p, strong {
-        font-family: 'Chango';
+        font-family: 'Noto Sans JP', sans-serif;
       }
 
       a {

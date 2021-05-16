@@ -12,6 +12,8 @@ connectDB(process.env.MONGODB_URI_DEV);
 
 // load the cookie-parsing middleware
 app.use(cookieParser());
+app.use(express.urlencoded({extended: false}));
+app.use(express.json());
 
 //FILE STATIK
 app.use(express.static('public'));
@@ -34,13 +36,13 @@ app.use(lingua(app, {
 //GET REQUEST BUAT http://localhost:9000/
 app.get("/", (req, res) => {
     res.render("index.ejs", {
-        headTitle: "RealPenguin Forum | Home",
-        navTitle: "RealPenguin",
         paypalSDK: `https://www.paypal.com/sdk/js?client-id=${process.env.PAYPAL_CLIENT_ID}`
     });
 })
 
 app.get("/discord", require("./router/discord"));
+
+app.get("/login", require("./router/api/login"));
 
 app.listen(PORT, () => {
     console.log(`WEBAPP LISTENING AT PORT ${PORT}`);

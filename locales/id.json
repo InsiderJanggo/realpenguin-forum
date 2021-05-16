@@ -1,9 +1,10 @@
-{
+{   "locales": "id",
+    "headTitle": "Forum RealPenguin | Beranda",
     "title": "RealPenguin",
     "content": {
         "description": "Forum Resmi RealPenguin",
         "btn": {
-            "invite_btn": "Join Discord Server Kami"
+            "invite": "Join Discord Server Kami"
         }
     },
     "dropdown": {
@@ -16,5 +17,9 @@
         },
         "home": "Beranda",
         "about": "Tentang Kami"
+    },
+    "navbar": {
+        "login_text": "Login Akun",
+        "register_test": "Buat Akun"
     }
 }
