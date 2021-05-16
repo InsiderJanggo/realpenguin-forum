@@ -1,15 +1,20 @@
 {
     "title": "RealPenguin",
     "content": {
-        "description": "Forum Resmi RealPenguin"
+        "description": "Forum Resmi RealPenguin",
+        "btn": {
+            "invite_btn": "Join Discord Server Kami"
+        }
     },
     "dropdown": {
-        "reset": "Reset",
+        "reset": "Reset Bahasa",
         "lang_menu": {
             "menu": "Pilih Bahasa",
             "en": "Bahasa Inggris",
             "ja": "Bahasa Jepang",
             "id": "Bahasa Indonesia"
-        }
+        },
+        "home": "Beranda",
+        "about": "Tentang Kami"
     }
 }
