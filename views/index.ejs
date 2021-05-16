@@ -22,10 +22,10 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="img/pepe.png" alt="" width="30" height="30" class="d-inline-block align-text-top">
             </a>
-          <a class="navbar-brand" href="#"><%= navTitle %></a>
+          <a class="navbar-brand" href="/"><%= lingua.title %></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -40,8 +40,17 @@
               <li class="nav-item">
                 <a class="nav-link" href="#">Pricing</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <%= lingua.dropdown.lang_menu.menu %>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="?lang=en"><%= lingua.dropdown.lang_menu.en %></a></li>
+                  <li><a class="dropdown-item" href="?lang=ja"><%= lingua.dropdown.lang_menu.ja %></a></li>
+                  <li><a class="dropdown-item" href="?lang=id"><%= lingua.dropdown.lang_menu.id %></a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="?lang=reset"><%= lingua.dropdown.reset %></a></li>
+                </ul>
               </li>
             </ul>
           </div>
@@ -52,7 +61,7 @@
             <div class="container">
                 <img class="img-fluid bot-avatar rounded-circle" src="img/pepe.png" width="200px" height="200px"
               alt="">
-              <h3 class="masthead-heading mb-0" style="font-size: 3em !important;">RealPenguin</h3>
+              <h3 class="masthead-heading mb-0" style="font-size: 3em !important;"><%= lingua.content.description %></h3>
               <br />
               
               <a class="btn loginHB" href="/discord" role="button" style="color: white;">

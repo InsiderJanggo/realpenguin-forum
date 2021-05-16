@@ -1,0 +1,15 @@
+{
+    "title": "RealPenguin",
+    "content": {
+        "description": "Forum Resmi RealPenguin"
+    },
+    "dropdown": {
+        "reset": "Reset",
+        "lang_menu": {
+            "menu": "Pilih Bahasa",
+            "en": "Bahasa Inggris",
+            "ja": "Bahasa Jepang",
+            "id": "Bahasa Indonesia"
+        }
+    }
+}

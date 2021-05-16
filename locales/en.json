@@ -1,0 +1,15 @@
+{
+    "title": "RealPenguin",
+    "content": {
+        "description": "RealPenguin Official Forum"
+    },
+    "dropdown": {
+        "reset": "Reset",
+        "lang_menu": {
+            "menu": "Languages",
+            "en": "English",
+            "ja": "Japanese",
+            "id": "Indonesian"
+        }
+    }
+}
