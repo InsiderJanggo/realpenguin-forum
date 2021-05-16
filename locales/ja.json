@@ -25,5 +25,18 @@
     "navbar": {
         "login_text": "ログイン",
         "register_test": "新規登録"
+    },
+    "footer": {
+        "content": {
+            "title": "リアルペンギフォーラム",
+            "about_content": "友だちとつながる",
+            "category": {
+                "about": "フォーラムについて",
+                "about_link_one": "概要",
+                "policy": "ポリシー",
+                "tos": "利用規約"
+            },
+            "copyright": "著作権"
+        }
     }
 }

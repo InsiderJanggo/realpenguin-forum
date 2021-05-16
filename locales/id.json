@@ -21,5 +21,18 @@
     "navbar": {
         "login_text": "Login Akun",
         "register_test": "Buat Akun"
+    },
+    "footer": {
+        "content": {
+            "title": "Forum RealPenguin",
+            "about_content": "Konek Bersama Temanmu",
+            "category": {
+                "about": "Tentang Forum",
+                "about_link_one": "Tentang Kami",
+                "policy": "Kebijakan",
+                "tos": "Istilah dan layanan"
+            },
+            "copyright": "Hak Cipta"
+        }
     }
 }

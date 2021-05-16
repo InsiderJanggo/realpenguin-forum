@@ -22,5 +22,18 @@
     "navbar": {
         "login_text": "Login",
         "register_test": "Register"
+    },
+    "footer": {
+        "content": {
+            "title": "RealPenguin Forum",
+            "about_content": "Connect With Your Friend",
+            "category": {
+                "about": "About Forum",
+                "about_link_one": "About",
+                "policy": "Policy",
+                "tos": "Term And Services"
+            },
+            "copyright": "Copyright"
+        }
     }
 }
