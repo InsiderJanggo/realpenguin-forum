@@ -1,3 +1,48 @@
 {
-    
+    "locales": "zh-CN",
+    "headTitle": "真正的企鹅论坛 | 主页",
+    "title": "真正的企鹅论坛",
+    "content": {
+        "description": "真正的企鹅官方论坛",
+        "btn": {
+            "invite": "加入一个 Discord 服务器"
+        },
+        "credit": {
+            "name": "谢谢"
+        },
+        "section": {
+            "first_section": "服务器小工具",
+            "first_section_desc": "在小工具中检查你的Discord服务器"
+        },
+        "page2": "真正的企鹅论坛 | 谢谢"
+    },
+    "dropdown": {
+        "reset": "重置语言",
+        "lang_menu": {
+            "menu": "语言选择",
+            "en": "英语（美国)",
+            "ja": "日文",
+            "id": "印度尼西亚语",
+            "zh_CN": "中文"
+        },
+        "home": "主页",
+        "about": "纲要"
+    },
+    "navbar": {
+        "login_text": "登录",
+        "register_text": "新注册"
+    },
+    "footer": {
+        "content": {
+            "title": "真正的企鹅论坛",
+            "about_content": "与朋友联系",
+            "category": {
+                "about": "关于论坛",
+                "about_link_one": "纲要",
+                "policy": "政策",
+                "tos": "使用条款"
+            },
+            "copyright": "版权"
+        }
+    }
 }

@@ -7,4 +7,10 @@ routes.get("/acknowledgements", (req, res) => {
     })
 })
 
+/*
+    https://www.deepl.com/
+    https://emojipedia.org
+    
+*/
+
 module.exports = routes;
