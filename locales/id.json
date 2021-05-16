@@ -5,6 +5,13 @@
         "description": "Forum Resmi RealPenguin",
         "btn": {
             "invite": "Join Discord Server Kami"
+        },
+        "credit": {
+            "name": "Terima Kasih"
+        },
+        "section": {
+            "first_section": "Server Widget",
+            "first_section_desc": "Silakan Dilihat server widgetnya"
         }
     },
     "dropdown": {
@@ -13,7 +20,8 @@
             "menu": "Pilih Bahasa",
             "en": "Bahasa Inggris",
             "ja": "Bahasa Jepang",
-            "id": "Bahasa Indonesia"
+            "id": "Bahasa Indonesia",
+            "zh_CN": "Bahasa Cina(Serdehana)"
         },
         "home": "Beranda",
         "about": "Tentang Kami"

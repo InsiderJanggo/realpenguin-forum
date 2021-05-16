@@ -44,6 +44,8 @@ app.get("/discord", require("./router/discord"));
 
 app.get("/login", require("./router/api/login"));
 
+app.get("/acknowledgements", require("./router/acknowledgements"));
+
 app.listen(PORT, () => {
     console.log(`WEBAPP LISTENING AT PORT ${PORT}`);
 })

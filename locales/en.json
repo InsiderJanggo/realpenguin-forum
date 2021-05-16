@@ -6,6 +6,13 @@
         "description": "RealPenguin Official Forum",
         "btn": {
             "invite": "Join Discord Server"
+        },
+        "credit": {
+            "name": "Acknowledgements"
+        },
+        "section": {
+            "first_section": "Server Widget",
+            "first_section_desc": "Preview our Discord server through the Widget"
         }
     },
     "dropdown": {
@@ -14,7 +21,8 @@
             "menu": "Languages",
             "en": "English",
             "ja": "Japanese",
-            "id": "Indonesian"
+            "id": "Indonesian",
+            "zh_CN": "Simplified Chinese"
         },
         "home": "Home",
         "about": "About"

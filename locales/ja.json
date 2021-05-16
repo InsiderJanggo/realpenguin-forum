@@ -5,19 +5,24 @@
     "content": {
         "description": "リアルペンギン公式のフォーラム",
         "btn": {
-            "invite": "Discordサーバー参加する"
+            "invite": "Discordサーバーに参加する"
         },
         "credit": {
             "name": "謝辞"
+        },
+        "section": {
+            "first_section": "サーバーウィジェット",
+            "first_section_desc": "ウィジットでDiscordサーバーを確認します"
         }
     },
     "dropdown": {
         "reset": "言語をリセット",
         "lang_menu": {
             "menu": "言語選択",
-            "en": "英語",
+            "en": "英語(アメリカ)",
             "ja": "日本語",
-            "id": "インドネシア語"
+            "id": "インドネシア語",
+            "zh_CN": "中国語"
         },
         "home": "ホーム",
         "about": "概要"
