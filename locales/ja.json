@@ -13,7 +13,8 @@
         "section": {
             "first_section": "サーバーウィジェット",
             "first_section_desc": "ウィジットでDiscordサーバーを確認します"
-        }
+        },
+        "page2": "リアルペンギフォーラム | 謝辞"
     },
     "dropdown": {
         "reset": "言語をリセット",
