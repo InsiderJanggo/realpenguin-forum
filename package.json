@@ -10,6 +10,7 @@
   "author": "Wisly Ong",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
     "dotenv": "^9.0.2",
     "ejs": "^3.1.6",
