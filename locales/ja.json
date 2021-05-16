@@ -12,7 +12,9 @@
         },
         "section": {
             "first_section": "サーバーウィジェット",
-            "first_section_desc": "ウィジットでDiscordサーバーを確認します"
+            "first_section_desc": "ウィジットでDiscordサーバーを確認します",
+            "second_section": "サイト作成者",
+            "second_section_desc": "こんにちは私の名前はリアルペンギン，サイト作成者です。よろしくお願いいたします"
         },
         "page2": "リアルペンギフォーラム | 謝辞"
     },
@@ -23,7 +25,8 @@
             "en": "英語(アメリカ)",
             "ja": "日本語",
             "id": "インドネシア語",
-            "zh_CN": "中国語"
+            "zh_CN": "中国語",
+            "zh_TW": "中国語(台湾)"
         },
         "home": "ホーム",
         "about": "概要"

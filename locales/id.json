@@ -11,7 +11,9 @@
         },
         "section": {
             "first_section": "Server Widget",
-            "first_section_desc": "Silakan Dilihat server widgetnya"
+            "first_section_desc": "Silakan Dilihat server widgetnya",
+            "second_section": "Pembuat Website",
+            "second_section_desc": "Halo nama saya RealPenguin saya adalah pembuat website ini."
         }
     },
     "dropdown": {
@@ -21,7 +23,8 @@
             "en": "Bahasa Inggris",
             "ja": "Bahasa Jepang",
             "id": "Bahasa Indonesia",
-            "zh_CN": "Bahasa Cina(Serdehana)"
+            "zh_CN": "Bahasa Cina(Serdehana)",
+            "zh-TW": "Bahasa Cina(Traditional)"
         },
         "home": "Beranda",
         "about": "Tentang Kami"

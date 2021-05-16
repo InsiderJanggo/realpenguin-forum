@@ -12,7 +12,9 @@
         },
         "section": {
             "first_section": "Server Widget",
-            "first_section_desc": "Preview our Discord server through the Widget"
+            "first_section_desc": "Preview our Discord server through the Widget",
+            "second_section": "Creator",
+            "second_section_desc": "Hi My Name Is RealPenguin im the owner of a discord server name Club Jerry And the creator this forum :)"
         }
     },
     "dropdown": {
@@ -22,7 +24,8 @@
             "en": "English",
             "ja": "Japanese",
             "id": "Indonesian",
-            "zh_CN": "Simplified Chinese"
+            "zh_CN": "Simplified Chinese",
+            "zh_TW": "Traditional Chinese"
         },
         "home": "Home",
         "about": "About"

@@ -12,7 +12,9 @@
         },
         "section": {
             "first_section": "服务器小工具",
-            "first_section_desc": "在小工具中检查你的Discord服务器"
+            "first_section_desc": "在小工具中检查你的Discord服务器",
+            "second_section": "网站作者",
+            "second_section_desc": "你好，我的名字是Real Penguin，我是这个网站的创建者。 很高兴见到你!"
         },
         "page2": "真正的企鹅论坛 | 谢谢"
     },
@@ -21,9 +23,10 @@
         "lang_menu": {
             "menu": "语言选择",
             "en": "英语（美国)",
-            "ja": "日文",
+            "ja": "日语",
             "id": "印度尼西亚语",
-            "zh_CN": "中文"
+            "zh_CN": "中语",
+            "zh_TW": "中语(台湾)"
         },
         "home": "主页",
         "about": "纲要"

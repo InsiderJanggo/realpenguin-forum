@@ -1,0 +1,51 @@
+{
+    "locales": "zh-TW",
+    "headTitle": "真正的彭吉論壇 | 主頁",
+    "title": "真正的彭吉論壇",
+    "content": {
+        "description": "真正的企鵝官方論壇",
+        "btn": {
+            "invite": "加入Discord服務器"
+        },
+        "credit": {
+            "name": "致謝"
+        },
+        "section": {
+            "first_section": "服務器小部件",
+            "first_section_desc": "檢查小部件中的Discord服務器",
+            "second_section": "網站創建者",
+            "second_section_desc": "嗨，我叫Real Penguins，該網站的創建者。 謝謝"
+        },
+        "page2": "真正的彭吉論壇 | 致謝"
+    },
+    "dropdown": {
+        "reset": "重設語言",
+        "lang_menu": {
+            "menu": "語言選擇",
+            "en": "英文（美國）",
+            "ja": "日文",
+            "id": "印度尼西亞文",
+            "zh_CN": "中文",
+            "zh_TW": "中文(台灣)"
+        },
+        "home": "主頁",
+        "about": "概述"
+    },
+    "navbar": {
+        "login_text": "登錄",
+        "register_text": "報名"
+    },
+    "footer": {
+        "content": {
+            "title": "真正的彭吉論壇",
+            "about_content": "與朋友聯繫",
+            "category": {
+                "about": "關於論壇",
+                "about_link_one": "概述",
+                "policy": "政策",
+                "tos": "使用條款"
+            },
+            "copyright": "版權"
+        }
+    }
+}
