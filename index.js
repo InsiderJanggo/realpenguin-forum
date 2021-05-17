@@ -1,5 +1,6 @@
 const express = require("express");
 const lingua  = require('lingua');
+const passport = require('passport');
 require("dotenv").config();
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -45,6 +46,8 @@ app.get("/discord", require("./router/discord"));
 app.get("/login", require("./router/api/login"));
 
 app.get("/acknowledgements", require("./router/acknowledgements"));
+
+app.get("/api/discord", require("./router/api/discord"));
 
 app.listen(PORT, () => {
     console.log(`WEBAPP LISTENING AT PORT ${PORT}`);
