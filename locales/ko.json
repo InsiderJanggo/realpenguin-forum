@@ -1,0 +1,61 @@
+{
+    "locales": "ko",
+    "headTitle": "리얼 펭귄 포럼 | 홈",
+    "title": "리얼 펭귄",
+    "content": {
+        "description": "리얼 펭귄 공식 포럼",
+        "btn": {
+            "invite": "Discord 서버에 참여"
+        },
+        "credit": {
+            "name": "감사",
+            "content": {
+                "desc": "이들은이 포럼을 만들기 위해 사용하는 오픈 소스 라이브러리입니다 :",
+                "section": {
+                    "first_section_title": "DeepL 번역",
+                    "first_section_desc": "DeepL 세계를 리드하는 신경망 기술을 구사 한 최고의 기계 번역에 당신의 글을 번역합니다.",
+                    "second_section_title": "Bootstrap",
+                    "second_section_desc": "Bootstrap은 레스에서 모바일 퍼스트 프런트 엔드 웹 개발을 목적으로 한 무료 오픈 소스 CSS 프레임 워크입니다. Bootstrap은 타이포그래피 양식, 버튼, 네비게이션 및 기타 인터페이스 구성 요소에 대한 CSS를 및 (옵션) JavaScript 기반의 디자인 템플릿이 포함되어 있습니다."
+                }
+            }
+        },
+        "section": {
+            "first_section": "서버 위젯",
+            "first_section_desc": "위젯에서 Discord 서버를 확인합니다",
+            "second_section": "사이트 작성자",
+            "second_section_desc": "안녕하세요 내 이름은 실제 펭귄 사이트 창조자이다. 잘 부탁드립니다"
+        },
+        "page2": "리얼 펭귄 포럼 | 감사"
+    },
+    "dropdown": {
+        "reset": "언어를 재설정",
+        "lang_menu": {
+            "menu": "언어 선택",
+            "en": "영어 (미국)",
+            "ja": "일본어",
+            "id": "인도네시아어",
+            "zh_CN": "중국",
+            "zh_TW": "중국어 (대만)",
+            "ru": "러시아어"
+        },
+        "home": "홈",
+        "about": "요약"
+    },
+    "navbar": {
+        "login_text": "로그인",
+        "register_text": "신규 등록"
+    },
+    "footer": {
+        "content": {
+            "title": "리얼 펭귄 포럼",
+            "about_content": "친구와 연결",
+            "category": {
+                "about": "포럼 소개",
+                "about_link_one": "요약",
+                "policy": "정책",
+                "tos": "이용 약관"
+            },
+            "copyright": "저작권"
+        }
+    }
+}

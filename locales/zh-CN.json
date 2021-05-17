@@ -8,7 +8,16 @@
             "invite": "加入一个 Discord 服务器"
         },
         "credit": {
-            "name": "谢谢"
+            "name": "谢谢",
+            "content": {
+                "desc": "这些是我们用来创建这个论坛的开放源码库：",
+                "section": {
+                    "first_section_title": "DeepL 翻译",
+                    "first_section_desc": "DeepL 使用世界领先的神经网络技术，用最好的机器翻译你的文本。",
+                    "second_section_title": "Bootstrap",
+                    "second_section_desc": "Bootstrap是一个免费和开源的CSS框架，用于响应式、移动优先的前端网页开发。 Bootstrap包括CSS和（可选）基于JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。 Bootstrap包括基于CSS和（可选）JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。"
+                }
+            }
         },
         "section": {
             "first_section": "服务器小工具",
@@ -26,7 +35,9 @@
             "ja": "日语",
             "id": "印度尼西亚语",
             "zh_CN": "中语",
-            "zh_TW": "中语(台湾)"
+            "zh_TW": "中语(台湾)",
+            "ru": "俄语",
+            "ko": "韩语"
         },
         "home": "主页",
         "about": "纲要"

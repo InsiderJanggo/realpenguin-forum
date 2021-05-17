@@ -1,6 +1,6 @@
 {
     "locales": "ja",
-    "headTitle": "リアルペンギフォーラム | ホーム",
+    "headTitle": "リアルペンギンフォーラム | ホーム",
     "title": "リアルペンギン",
     "content": {
         "description": "リアルペンギン公式のフォーラム",
@@ -8,7 +8,16 @@
             "invite": "Discordサーバーに参加する"
         },
         "credit": {
-            "name": "謝辞"
+            "name": "謝辞",
+            "content": {
+                "desc": "これらは、このフォーラムを作るために使用しているオープンソースのライブラリです：",
+                "section": {
+                    "first_section_title": "DeepL 翻訳",
+                    "first_section_desc": "DeepL 世界をリードするニューラルネットワーク技術を駆使した最高の機械翻訳で、あなたの文章を翻訳します。",
+                    "second_section_title": "Bootstrap",
+                    "second_section_desc": "Bootstrapは、レスポンシブでモバイルファーストなフロントエンドウェブ開発を目的とした、フリーでオープンソースのCSSフレームワークです。Bootstrapは、タイポグラフィ、フォーム、ボタン、ナビゲーション、その他のインターフェースコンポーネントのための、CSSおよび（オプションで）JavaScriptベースのデザインテンプレートを含んでいます。"
+                }
+            }
         },
         "section": {
             "first_section": "サーバーウィジェット",
@@ -16,7 +25,7 @@
             "second_section": "サイト作成者",
             "second_section_desc": "こんにちは私の名前はリアルペンギン，サイト作成者です。よろしくお願いいたします"
         },
-        "page2": "リアルペンギフォーラム | 謝辞"
+        "page2": "リアルペンギンフォーラム | 謝辞"
     },
     "dropdown": {
         "reset": "言語をリセット",
@@ -26,7 +35,9 @@
             "ja": "日本語",
             "id": "インドネシア語",
             "zh_CN": "中国語",
-            "zh_TW": "中国語(台湾)"
+            "zh_TW": "中国語(台湾)",
+            "ru": "ロシア語",
+            "ko": "韓国語"
         },
         "home": "ホーム",
         "about": "概要"
@@ -37,7 +48,7 @@
     },
     "footer": {
         "content": {
-            "title": "リアルペンギフォーラム",
+            "title": "リアルペンギンフォーラム",
             "about_content": "友だちとつながる",
             "category": {
                 "about": "フォーラムについて",

@@ -8,14 +8,24 @@
             "invite": "Join Discord Server"
         },
         "credit": {
-            "name": "Acknowledgements"
+            "name": "Acknowledgements",
+            "content": {
+                "desc": "These are the open source libraries we use to make this forum:",
+                "section": {
+                    "first_section_title": "DeepL Translate",
+                    "first_section_desc": "DeepL Translator to translate your texts with the best machine translation available, powered by DeepL's world-leading neural network technology.",
+                    "second_section_title": "Bootstrap",
+                    "second_section_desc": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+                }
+            }
         },
         "section": {
             "first_section": "Server Widget",
             "first_section_desc": "Preview our Discord server through the Widget",
             "second_section": "Creator",
             "second_section_desc": "Hi My Name Is RealPenguin im the owner of a discord server name Club Jerry And the creator this forum :)"
-        }
+        },
+        "page2": "RealPenguin Forum | Acknowledgements"
     },
     "dropdown": {
         "reset": "Reset",
@@ -25,7 +35,9 @@
             "ja": "Japanese",
             "id": "Indonesian",
             "zh_CN": "Simplified Chinese",
-            "zh_TW": "Traditional Chinese"
+            "zh_TW": "Traditional Chinese",
+            "ru": "Russian",
+            "ko": "Korean"
         },
         "home": "Home",
         "about": "About"

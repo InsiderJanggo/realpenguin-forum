@@ -1,4 +1,5 @@
-{   "locales": "id",
+{   
+    "locales": "id",
     "headTitle": "Forum RealPenguin | Beranda",
     "title": "RealPenguin",
     "content": {
@@ -7,14 +8,24 @@
             "invite": "Join Discord Server Kami"
         },
         "credit": {
-            "name": "Terima Kasih"
+            "name": "Terima Kasih",
+            "content": {
+                "desc": "Ini adalah open source libary yang kami gunakan untuk membuat forum ini:",
+                "section": {
+                    "first_section_title": "DeepL Translate",
+                    "first_section_desc": "DeepL Translator untuk menerjemahkan teks Anda dengan terjemahan mesin terbaik yang tersedia, didukung oleh teknologi machine learning terdepan di dunia.",
+                    "second_section_title": "Bootstrap",
+                    "second_section_desc": "Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. Kerangka kerja ini berisi templat desain berbasis HTML dan CSS untuk tipografi, formulir, tombol, navigasi, dan komponen antarmuka lainnya, serta juga ekstensi opsional JavaScript."
+                }
+            }
         },
         "section": {
             "first_section": "Server Widget",
             "first_section_desc": "Silakan Dilihat server widgetnya",
             "second_section": "Pembuat Website",
             "second_section_desc": "Halo nama saya RealPenguin saya adalah pembuat website ini."
-        }
+        },
+        "page2": "Forum RealPenguin | Terima Kasih"
     },
     "dropdown": {
         "reset": "Reset Bahasa",
@@ -23,8 +34,10 @@
             "en": "Bahasa Inggris",
             "ja": "Bahasa Jepang",
             "id": "Bahasa Indonesia",
-            "zh_CN": "Bahasa Cina(Serdehana)",
-            "zh-TW": "Bahasa Cina(Traditional)"
+            "zh_CN": "Bahasa Cina(Sederhana)",
+            "zh_TW": "Bahasa Cina(Traditional)",
+            "ru": "Bahasa Rusia",
+            "ko": "Bahasa Korea"
         },
         "home": "Beranda",
         "about": "Tentang Kami"
