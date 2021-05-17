@@ -27,7 +27,9 @@
             "first_section": "Виджет сервера",
             "first_section_desc": "Предварительный просмотр нашего сервера Discord через виджет",
             "second_section": "Создатель",
-            "second_section_desc": "Привет Меня зовут RealPenguin я владелец сервера discord имя Club Jerry И создатель этого форума"
+            "second_section_desc": "Привет Меня зовут RealPenguin я владелец сервера discord имя Club Jerry И создатель этого форума",
+            "third_section_title": "Моя лента Twitter",
+            "third_section_desc": "Вы можете следить за моим Twitter : "
         }
     },
     "dropdown": {

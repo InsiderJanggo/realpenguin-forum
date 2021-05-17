@@ -27,7 +27,9 @@
             "first_section": "サーバーウィジェット",
             "first_section_desc": "ウィジットでDiscordサーバーを確認します",
             "second_section": "サイト作成者",
-            "second_section_desc": "こんにちは私の名前はリアルペンギン，サイト作成者です。よろしくお願いいたします"
+            "second_section_desc": "こんにちは私の名前はリアルペンギン，サイト作成者です。よろしくお願いいたします",
+            "third_section_title": "自分のツイッターフィード",
+            "third_section_desc": "自分のTwitterをフォローすることができます : "
         },
         "page2": "リアルペンギンフォーラム | 謝辞",
         "page3": "リアルペンギンフォーラム | ログイン"
