@@ -15,7 +15,11 @@
                     "first_section_title": "DeepL Translate",
                     "first_section_desc": "DeepL Translator to translate your texts with the best machine translation available, powered by DeepL's world-leading neural network technology.",
                     "second_section_title": "Bootstrap",
-                    "second_section_desc": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+                    "second_section_desc": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+                    "third_section_title": "MongoDB",
+                    "third_section_desc": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.",
+                    "fourth_section_title": "Nodemon",
+                    "fourth_section_desc": "nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected."
                 }
             }
         },

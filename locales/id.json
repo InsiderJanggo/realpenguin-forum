@@ -15,7 +15,11 @@
                     "first_section_title": "DeepL Translate",
                     "first_section_desc": "DeepL Translator untuk menerjemahkan teks Anda dengan terjemahan mesin terbaik yang tersedia, didukung oleh teknologi machine learning terdepan di dunia.",
                     "second_section_title": "Bootstrap",
-                    "second_section_desc": "Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. Kerangka kerja ini berisi templat desain berbasis HTML dan CSS untuk tipografi, formulir, tombol, navigasi, dan komponen antarmuka lainnya, serta juga ekstensi opsional JavaScript."
+                    "second_section_desc": "Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. Kerangka kerja ini berisi templat desain berbasis HTML dan CSS untuk tipografi, formulir, tombol, navigasi, dan komponen antarmuka lainnya, serta juga ekstensi opsional JavaScript.",
+                    "third_section_title": "MongoDB",
+                    "third_section_desc": "MongoDB adalah database terdistribusi dengan tujuan umum, berbasis dokumen yang dibangun untuk pengembang aplikasi modern dan untuk era cloud.",
+                    "fourth_section_title": "Nodemon",
+                    "fourth_section_desc": "nodemon adalah alat yang membantu mengembangkan aplikasi berbasis node.js dengan memulai ulang aplikasi node secara otomatis ketika perubahan file dalam direktori terdeteksi."
                 }
             }
         },

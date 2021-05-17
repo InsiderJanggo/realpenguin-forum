@@ -15,7 +15,11 @@
                     "first_section_title": "DeepL 翻译",
                     "first_section_desc": "DeepL 使用世界领先的神经网络技术，用最好的机器翻译你的文本。",
                     "second_section_title": "Bootstrap",
-                    "second_section_desc": "Bootstrap是一个免费和开源的CSS框架，用于响应式、移动优先的前端网页开发。 Bootstrap包括CSS和（可选）基于JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。 Bootstrap包括基于CSS和（可选）JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。"
+                    "second_section_desc": "Bootstrap是一个免费和开源的CSS框架，用于响应式、移动优先的前端网页开发。 Bootstrap包括CSS和（可选）基于JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。 Bootstrap包括基于CSS和（可选）JavaScript的设计模板，用于排版、表格、按钮、导航和其他界面组件。",
+                    "third_section_title": "MongoDB",
+                    "third_section_desc": "MongoDB是一个基于文档的通用分布式数据库，为现代应用开发者和云时代而构建。",
+                    "fourth_section_title": "Nodemon",
+                    "fourth_section_desc": "nodemon是一个帮助开发基于node.js的应用程序的工具，它在检测到目录中的文件变化时自动重启node应用程序。"
                 }
             }
         },
