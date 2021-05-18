@@ -21,7 +21,11 @@
                     "fourth_section_title": "Nodemon",
                     "fourth_section_desc": "nodemon adalah alat yang membantu mengembangkan aplikasi berbasis node.js dengan memulai ulang aplikasi node secara otomatis ketika perubahan file dalam direktori terdeteksi.",
                     "fifth_section_title": "Express",
-                    "fifth_section_desc": "Express adalah kerangka kerja aplikasi web Node.js yang minimal dan fleksibel yang menyediakan sekumpulan fitur yang kuat untuk aplikasi web dan seluler."
+                    "fifth_section_desc": "Express adalah kerangka kerja aplikasi web Node.js yang minimal dan fleksibel yang menyediakan sekumpulan fitur yang kuat untuk aplikasi web dan seluler.",
+                    "sixth_section_title": "Mongoose",
+                    "sixth_section_desc": "Mongoose adalah alat pemodelan objek MongoDB yang dirancang untuk bekerja dalam lingkungan asynchronous. Mongoose mendukung promise dan callback.",
+                    "seventh_section_title": "Lingua",
+                    "seventh_section_desc": "Lingua adalah middleware untuk kerangka kerja Express.js yang membantu Anda menginternasionalkan aplikasi web Anda dengan mudah. Ini menentukan bahasa agen pengguna dan mendorong sumber daya i18n ke tampilan Anda."
                 }
             }
         },

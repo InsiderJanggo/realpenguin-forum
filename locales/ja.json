@@ -21,7 +21,11 @@
                     "fourth_section_title": "Nodemon",
                     "fourth_section_desc": "nodemonは、ディレクトリ内のファイル変更を検知した際に、自動的にnodeアプリケーションを再起動することで、node.jsベースのアプリケーションの開発を支援するツールです。",
                     "fifth_section_title": "Express",
-                    "fifth_section_desc": "Expressは、Web アプリケーションとモバイル・アプリケーション向けの一連の堅固な機能を提供する最小限で柔軟な Node.js Web アプリケーション・フレームワークです。"
+                    "fifth_section_desc": "Expressは、Web アプリケーションとモバイル・アプリケーション向けの一連の堅固な機能を提供する最小限で柔軟な Node.js Web アプリケーション・フレームワークです。",
+                    "sixth_section_title": "Mongoose",
+                    "sixth_section_desc": "Mongooseは、非同期環境で動作するように設計されたMongoDBオブジェクトモデリングツールです。マングースはプロミスとコールバックの両方をサポートしています。",
+                    "seventh_section_title": "Lingua",
+                    "seventh_section_desc": "LinguaはExpressフレームワーク用のミドルウェアで、Webアプリを簡単に国際化することができます。ユーザーエージェントの言語を判断し、国際化リソースをビューにプッシュします。"
                 }
             }
         },

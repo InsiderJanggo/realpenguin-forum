@@ -21,7 +21,11 @@
                     "fourth_section_title": "Nodemon",
                     "fourth_section_desc": "nodemon是一个帮助开发基于node.js的应用程序的工具，它在检测到目录中的文件变化时自动重启node应用程序。",
                     "fifth_section_title": "Express",
-                    "fifth_section_desc": "Express是一个最小和灵活的Node.js网络应用程序框架，为网络和移动应用程序提供了一套强大的功能。"
+                    "fifth_section_desc": "Express是一个最小和灵活的Node.js网络应用程序框架，为网络和移动应用程序提供了一套强大的功能。",
+                    "sixth_section_title": "Mongoose",
+                    "sixth_section_desc": "Mongoose是一个MongoDB对象建模工具，设计用于在异步环境中工作。Mongoose同时支持承诺和回调。",
+                    "seventh_section_title": "Lingua",
+                    "seventh_section_desc": "Lingua是Express.js框架的一个中间件，可以帮助你轻松实现Web应用的国际化。它可以确定用户代理的语言，并将i18n资源推送给你的视图。"
                 }
             }
         },
