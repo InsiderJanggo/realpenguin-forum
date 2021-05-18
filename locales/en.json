@@ -25,7 +25,11 @@
                     "sixth_section_title": "Mongoose",
                     "sixth_section_desc": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.",
                     "seventh_section_title": "Lingua",
-                    "seventh_section_desc": "Lingua is a middleware for the Express.js framework that helps you to internationalise your webapp easily. It determines the language of the user agent and pushes the i18n resources to your views."
+                    "seventh_section_desc": "Lingua is a middleware for the Express.js framework that helps you to internationalise your webapp easily. It determines the language of the user agent and pushes the i18n resources to your views.",
+                    "eight_section_title": "cookie-parser",
+                    "eight_section_desc": "cookie parser parses cookies and puts the cookie information on req object in the middleware.",
+                    "nine_section_title": "EJS",
+                    "nine_section_desc": "EJS is a simple templating language that lets you generate HTML markup with plain JavaScript."
                 }
             }
         },
