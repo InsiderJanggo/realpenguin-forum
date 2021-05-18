@@ -25,7 +25,11 @@
                     "sixth_section_title": "Mongoose",
                     "sixth_section_desc": "Mongooseは、非同期環境で動作するように設計されたMongoDBオブジェクトモデリングツールです。マングースはプロミスとコールバックの両方をサポートしています。",
                     "seventh_section_title": "Lingua",
-                    "seventh_section_desc": "LinguaはExpressフレームワーク用のミドルウェアで、Webアプリを簡単に国際化することができます。ユーザーエージェントの言語を判断し、国際化リソースをビューにプッシュします。"
+                    "seventh_section_desc": "LinguaはExpressフレームワーク用のミドルウェアで、Webアプリを簡単に国際化することができます。ユーザーエージェントの言語を判断し、国際化リソースをビューにプッシュします。",
+                    "eight_section_title": "cookie-parser",
+                    "eight_section_desc": "cookie-parserは、クッキーを解析して、ミドルウェアのreqオブジェクトにクッキー情報を格納します。",
+                    "nine_section_title": "EJS",
+                    "nine_section_desc": "EJSは、シンプルなテンプレート言語で、プレーンなJavaScriptでHTMLマークアップを生成することができます。"
                 }
             }
         },

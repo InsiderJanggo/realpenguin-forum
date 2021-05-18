@@ -25,7 +25,11 @@
                     "sixth_section_title": "Mongoose",
                     "sixth_section_desc": "Mongoose adalah alat pemodelan objek MongoDB yang dirancang untuk bekerja dalam lingkungan asynchronous. Mongoose mendukung promise dan callback.",
                     "seventh_section_title": "Lingua",
-                    "seventh_section_desc": "Lingua adalah middleware untuk kerangka kerja Express.js yang membantu Anda menginternasionalkan aplikasi web Anda dengan mudah. Ini menentukan bahasa agen pengguna dan mendorong sumber daya i18n ke tampilan Anda."
+                    "seventh_section_desc": "Lingua adalah middleware untuk kerangka kerja Express.js yang membantu Anda menginternasionalkan aplikasi web Anda dengan mudah. Ini menentukan bahasa agen pengguna dan mendorong sumber daya i18n ke tampilan Anda.",
+                    "eight_section_title": "cookie-parser",
+                    "eight_section_desc": "cookie parser mem-parsing cookie dan meletakkan informasi cookie pada objek req di middleware.",
+                    "nine_section_title": "EJS",
+                    "nine_section_desc": "EJS adalah bahasa template sederhana yang memungkinkan Anda menghasilkan markup HTML dengan JavaScript biasa."
                 }
             }
         },
