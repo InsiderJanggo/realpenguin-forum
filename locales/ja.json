@@ -19,7 +19,9 @@
                     "third_section_title": "MongoDB",
                     "third_section_desc": "MongoDBは、現代のアプリケーション開発者のために、そしてクラウド時代のために作られた、ドキュメントベースの汎用分散型データベースです。",
                     "fourth_section_title": "Nodemon",
-                    "fourth_section_desc": "nodemonは、ディレクトリ内のファイル変更を検知した際に、自動的にnodeアプリケーションを再起動することで、node.jsベースのアプリケーションの開発を支援するツールです。"
+                    "fourth_section_desc": "nodemonは、ディレクトリ内のファイル変更を検知した際に、自動的にnodeアプリケーションを再起動することで、node.jsベースのアプリケーションの開発を支援するツールです。",
+                    "fifth_section_title": "Express",
+                    "fifth_section_desc": "Expressは、Web アプリケーションとモバイル・アプリケーション向けの一連の堅固な機能を提供する最小限で柔軟な Node.js Web アプリケーション・フレームワークです。"
                 }
             }
         },

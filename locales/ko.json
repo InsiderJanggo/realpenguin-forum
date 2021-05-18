@@ -15,7 +15,13 @@
                     "first_section_title": "DeepL 번역",
                     "first_section_desc": "DeepL 세계를 리드하는 신경망 기술을 구사 한 최고의 기계 번역에 당신의 글을 번역합니다.",
                     "second_section_title": "Bootstrap",
-                    "second_section_desc": "Bootstrap은 레스에서 모바일 퍼스트 프런트 엔드 웹 개발을 목적으로 한 무료 오픈 소스 CSS 프레임 워크입니다. Bootstrap은 타이포그래피 양식, 버튼, 네비게이션 및 기타 인터페이스 구성 요소에 대한 CSS를 및 (옵션) JavaScript 기반의 디자인 템플릿이 포함되어 있습니다."
+                    "second_section_desc": "Bootstrap은 레스에서 모바일 퍼스트 프런트 엔드 웹 개발을 목적으로 한 무료 오픈 소스 CSS 프레임 워크입니다. Bootstrap은 타이포그래피 양식, 버튼, 네비게이션 및 기타 인터페이스 구성 요소에 대한 CSS를 및 (옵션) JavaScript 기반의 디자인 템플릿이 포함되어 있습니다.",
+                    "third_section_title": "MongoDB",
+                    "third_section_desc": "MongoDB - это распределенная база данных общего назначения, основанная на документах, созданная для современных разработчиков приложений и для облачной эры.",
+                    "fourth_section_title": "Nodemon",
+                    "fourth_section_desc": "nodemon - это инструмент, который помогает разрабатывать приложения на базе node.js, автоматически перезапуская приложение node при обнаружении изменений файлов в каталоге.",
+                    "fifth_section_title": "Express",
+                    "fifth_section_desc": "Express는 웹 및 모바일 애플리케이션을위한 강력한 기능 세트를 제공하는 최소한의 유연한 Node.js 웹 애플리케이션 프레임 워크입니다."
                 }
             }
         },
