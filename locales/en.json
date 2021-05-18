@@ -41,8 +41,7 @@
             "third_section_title": "My Twitter Feed",
             "third_section_desc": "You Can Follow My Twitter : "
         },
-        "page2": "RealPenguin Forum | Acknowledgements",
-        "page3": "RealPenguin Forum | Login"
+        "page2": "RealPenguin Forum | Acknowledgements"
     },
     "dropdown": {
         "reset": "Reset",
@@ -74,6 +73,21 @@
                 "tos": "Term And Services"
             },
             "copyright": "Copyright"
+        }
+    },
+    "login": {
+        "content": {
+            "title": "Login To The Forum",
+            "page_title": "RealPenguin Forum | Login",
+            "register_btn": "Register Now",
+            "register_text": "Dont Have A Account?",
+            "home_btn": "Home",
+            "input": {
+                "login": "Login",
+                "username": "Username",
+                "username_input": "Username Or Email",
+                "password": "Password"
+            }
         }
     }
 }

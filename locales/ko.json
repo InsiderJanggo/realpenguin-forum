@@ -70,5 +70,20 @@
             },
             "copyright": "저작권"
         }
+    },
+    "login": {
+        "content": {
+            "title": "포럼에 로그인",
+            "page_title": "RealPenguin 포럼 | 로그인",
+            "register_btn": "지금 등록하세요",
+            "register_text": "계정이 없으십니까?",
+            "home_btn": "집",
+            "input": {
+                "login": "로그인",
+                "username": "사용자 이름",
+                "username_input": "아이디 또는 이메일",
+                "password": "암호"
+            }
+        }
     }
 }

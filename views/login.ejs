@@ -2,9 +2,41 @@
 <html lang="<%= lingua.locales %>">
 <head>
      <%- include("includes/head.ejs") %>
-     <title><%= lingua.content.page3 %></title>
+     <title><%= lingua.login.content.page_title %></title>
 </head>
 <body>
-    login with discord <a href="/api/discord">here</a>
+    <%- include("includes/navbar.ejs") %>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+
+        <p>&larr; <a href="/"><%= lingua.login.content.home_btn %></a>
+
+        <h4><%= lingua.login.content.title %></h4>
+        <p><%= lingua.login.content.register_text %> <a href="/register"><%= lingua.login.content.register_btn %></a></p>
+
+        <form action="" method="POST">
+
+            <div class="form-group">
+                <label for="username"><%= lingua.login.content.input.login %></label>
+                <input class="form-control" type="text" name="username" placeholder="<%= lingua.login.content.input.username_input %>" />
+            </div>
+
+
+            <div class="form-group">
+                <label for="password"><%= lingua.login.content.input.password %></label>
+                <input class="form-control" type="password" name="password" placeholder="<%= lingua.login.content.input.password %>" />
+            </div>
+
+            <input type="submit" class="btn btn-success btn-block" name="login" value="<%= lingua.login.content.input.login %>"/>
+
+        </form>
+            
+        </div>
+
+        <div class="col-md-6">
+            <!-- isi dengan sesuatu di sini -->
+        </div>
+    </div>
 </body>
 </html>

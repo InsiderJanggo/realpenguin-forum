@@ -37,8 +37,7 @@
             "third_section_title": "自分のツイッターフィード",
             "third_section_desc": "自分のTwitterをフォローすることができます : "
         },
-        "page2": "リアルペンギンフォーラム | 謝辞",
-        "page3": "リアルペンギンフォーラム | ログイン"
+        "page2": "リアルペンギンフォーラム | 謝辞"
     },
     "dropdown": {
         "reset": "言語をリセット",
@@ -70,6 +69,21 @@
                 "tos": "利用規約"
             },
             "copyright": "著作権"
+        }
+    },
+    "login": {
+        "content": {
+            "title": "フォーラムをログインする",
+            "page_title": "リアルペンギンフォーラム | ログイン",
+            "register_btn": "今すぐに登録する",
+            "register_text": "アカウントをお持ちでない方はこちら",
+            "home_btn": "ホーム",
+            "input": {
+                "login": "ログイン",
+                "username": "ユーザー名",
+                "username_input": "ユーザー名またはメイルを入力する",
+                "password": "パスワード"
+            }
         }
     }
 }

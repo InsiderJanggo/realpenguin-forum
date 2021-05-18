@@ -1,9 +1,9 @@
 {
     "locales": "zh-CN",
-    "headTitle": "真正的企鹅论坛 | 主页",
+    "headTitle": "RealPenguin论坛 | 主页",
     "title": "真正的企鹅论坛",
     "content": {
-        "description": "真正的企鹅官方论坛",
+        "description": "RealPenguin论坛官方论坛",
         "btn": {
             "invite": "加入一个 Discord 服务器"
         },
@@ -37,7 +37,7 @@
             "third_section_title": "我的微博",
             "third_section_desc": "你可以关注我的Twitter : "
         },
-        "page2": "真正的企鹅论坛 | 谢谢"
+        "page2": "RealPenguin论坛 | 谢谢"
     },
     "dropdown": {
         "reset": "重置语言",
@@ -60,7 +60,7 @@
     },
     "footer": {
         "content": {
-            "title": "真正的企鹅论坛",
+            "title": "RealPenguin",
             "about_content": "与朋友联系",
             "category": {
                 "about": "关于论坛",
@@ -69,6 +69,21 @@
                 "tos": "使用条款"
             },
             "copyright": "版权"
+        }
+    },
+    "login": {
+        "content": {
+            "title": "登录到论坛",
+            "page_title": "RealPenguin论坛 | 登录",
+            "register_btn": "现在注册",
+            "register_text": "没有账户吗？",
+            "home_btn": "首页",
+            "input": {
+                "login": "登录",
+                "username": "帐号名称",
+                "username_input": "帐号名称那么电子邮件",
+                "password": "密码"
+            }
         }
     }
 }

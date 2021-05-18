@@ -71,5 +71,20 @@
             },
             "copyright": "Hak Cipta"
         }
+    },
+    "login": {
+        "content": {
+            "title": "Masuk ke Forum RealPenguin",
+            "page_title": "Forum RealPenguin | Login",
+            "register_btn": "Daftar Sekarang",
+            "register_text": "Belum punya akun?",
+            "home_btn": "Beranda",
+            "input": {
+                "login": "Masuk",
+                "username": "Username",
+                "username_input": "Username atau email",
+                "password": "Password"
+            }
+        }
     }
 }
