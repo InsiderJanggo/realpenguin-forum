@@ -89,5 +89,21 @@
                 "password": "密码"
             }
         }
+    },
+    "register": {  
+        "content": {
+            "page_title": "RealPenguin论坛 | 注册",
+            "title": "加入成千上万的人...",
+            "login_btn": "在此登录",
+            "login_text": "已经有了一个账户？",
+            "home_btn": "首页",
+            "input": {
+                "full_name": "全名",
+                "username": "帐号",
+                "email": "电子邮件",
+                "password": "密码",
+                "register": "注册"
+            }
+        }
     }
 }

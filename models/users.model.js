@@ -6,7 +6,8 @@ const userSchema = new Schema({
     password: String,
     fullname: String,
     userID: Number,
-    createdDate: { type: Date, default: Date.now }
+    createdDate: { type: Date, default: Date.now },
+    fullName: String
 });
 
 userSchema.set('toJSON', {

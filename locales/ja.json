@@ -89,5 +89,21 @@
                 "password": "パスワード"
             }
         }
+    },
+    "register": {  
+        "content": {
+            "page_title": "リアルペンギンフォーラム | 登録",
+            "title": "他の人に参加しましょ",
+            "login_btn": "ここにログインする",
+            "login_text": "アカウントがありますか？",
+            "home_btn": "ホーム",
+            "input": {
+                "full_name": "本名",
+                "username": "ユーザー名",
+                "email": "メイル",
+                "password": "パスワード",
+                "register": "登録"
+            }
+        }
     }
 }

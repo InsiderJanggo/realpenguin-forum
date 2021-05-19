@@ -90,5 +90,21 @@
                 "password": "Password"
             }
         }
+    },
+    "register": {  
+        "content": {
+            "page_title": "Forum RealPenguin | Daftar",
+            "title": "Bergabung dengan ribuan orang...",
+            "login_btn": "Login Sini",
+            "login_text": "Sudah punya akun?",
+            "home_btn": "Beranda",
+            "input": {
+                "full_name": "Nama Lengkap",
+                "username": "Username",
+                "email": "Email",
+                "password": "Password",
+                "register": "Daftar"
+            }
+        }
     }
 }

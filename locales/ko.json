@@ -89,5 +89,21 @@
                 "password": "암호"
             }
         }
+    },
+    "register": {  
+        "content": {
+            "page_title": "RealPenguin 포럼 | 레지스터",
+            "title": "수천 명의 다른 사람들과 함께 ...",
+            "login_btn": "여기에서 로그인",
+            "login_text": "이미 계정이 있습니까?",
+            "home_btn": "집",
+            "input": {
+                "full_name": "성명",
+                "username": "사용자 이름",
+                "email": "이메일",
+                "password": "암호",
+                "register": "레지스터"
+            }
+        }
     }
 }

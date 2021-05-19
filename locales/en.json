@@ -2,6 +2,9 @@
     "locales": "en",
     "headTitle": "RealPenguin Forum | Home",
     "title": "RealPenguin",
+    "error_msg": {
+        "error_txt": "No Right Click :)"
+    },
     "content": {
         "description": "RealPenguin Official Forum",
         "btn": {
@@ -73,6 +76,22 @@
                 "tos": "Term And Services"
             },
             "copyright": "Copyright"
+        }
+    },
+    "register": {  
+        "content": {
+            "page_title": "RealPenguin Forum | Register",
+            "title": "Join thousands of other people...",
+            "login_btn": "Login Here",
+            "login_text": "Already have an account?",
+            "home_btn": "Home",
+            "input": {
+                "full_name": "Full Name",
+                "username": "Username",
+                "email": "Email",
+                "password": "Password",
+                "register": "Register"
+            }
         }
     },
     "login": {
