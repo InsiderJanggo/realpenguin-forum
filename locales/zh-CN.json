@@ -102,8 +102,19 @@
                 "username": "帐号",
                 "email": "电子邮件",
                 "password": "密码",
-                "register": "注册"
+                "register": "注册",
+                "rand": "密码推荐："
             }
+        }
+    },
+    "context_menu": {
+        "content": {
+            "cut": "切断",
+            "copy": "拷贝",
+            "paste": "粘贴",
+            "delete": "删除",
+            "reload": "重新加载",
+            "exit": "退出"
         }
     }
 }

@@ -102,8 +102,19 @@
                 "username": "사용자 이름",
                 "email": "이메일",
                 "password": "암호",
-                "register": "레지스터"
+                "register": "레지스터",
+                "rand": "암호 추천 :"
             }
+        }
+    },
+    "context_menu": {
+        "content": {
+            "cut": "절단",
+            "copy": "부",
+            "paste": "풀",
+            "delete": "지우다",
+            "reload": "새로 고침",
+            "exit": "출구"
         }
     }
 }

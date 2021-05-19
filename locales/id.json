@@ -103,8 +103,19 @@
                 "username": "Username",
                 "email": "Email",
                 "password": "Password",
-                "register": "Daftar"
+                "register": "Daftar",
+                "rand": "Sarankan Password:"
             }
+        }
+    },
+    "context_menu": {
+        "content": {
+            "cut": "Memotong",
+            "copy": "Copy",
+            "paste": "Paste",
+            "delete": "Hapus",
+            "reload": "Muat Ulang",
+            "exit": "Keluar"
         }
     }
 }

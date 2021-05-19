@@ -90,7 +90,8 @@
                 "username": "Username",
                 "email": "Email",
                 "password": "Password",
-                "register": "Register"
+                "register": "Register",
+                "rand": "Recommended Password:"
             }
         }
     },
@@ -107,6 +108,16 @@
                 "username_input": "Username Or Email",
                 "password": "Password"
             }
+        }
+    },
+    "context_menu": {
+        "content": {
+            "cut": "Cut",
+            "copy": "Copy",
+            "paste": "Paste",
+            "delete": "Delete",
+            "reload": "Reload",
+            "exit": "Exit"
         }
     }
 }
